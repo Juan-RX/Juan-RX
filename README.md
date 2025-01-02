@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi i'm Juan-RX 👋
 
+For a while this will be empty
 <!--
 **Juan-RX/Juan-RX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
